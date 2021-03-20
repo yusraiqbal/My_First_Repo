@@ -1,0 +1,98 @@
+
+
+h1{
+    font-size: 36px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2{
+    font-size: 24px;
+margin-left: 200px;
+font-family: 'Open Sans', sans-serif;
+}
+
+h3{
+    font-size: 18px;
+    margin-left: 200px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h4{
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5{
+    font-size: 22px;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+}
+
+.TypographyContainer{
+    display: grid;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.Merriweather{
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.OpenSans{
+    text-align: center;
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+
+.Roboto{
+    text-align: center;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.OpenSansFont{
+    font-family: 'Open Sans', sans-serif;
+}
+
+p1{
+    font-size: 20px;
+}
+
+p2{
+    font-size: 20px;
+}
+
+p3{
+    font-size: 16px;
+}
+
+p4{
+    font-size: 18px;
+}
+
+p5{
+    font-size: 17px;
+}
+
+p6{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+h6{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 22px;
+}
